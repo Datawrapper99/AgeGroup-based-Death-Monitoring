@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Purpose: Correlations on Death data by destatis
+Purpose: Plot Death data by destatis
 Date: 01/2021
 Version: V01
 Links: https://realpython.com/numpy-scipy-pandas-correlation-python/#example-scipy-correlation-calculation
