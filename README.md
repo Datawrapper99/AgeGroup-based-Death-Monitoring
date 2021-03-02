@@ -8,7 +8,8 @@ this analysis delves into German deaths based on data by [destatis](https://www.
 
 
 ### Let's start with plotting annual deaths decomposed into Age Groups
-We start by decomposing the total death signal into age groups. Look at the first plot and try to find your age group. Can you see waves in your age group? No?,.. then you probably belong to a younger age group. Yes!, then you belong definitely to an older age group. And this our first observation. Old people cause seasonality in deaths and young people don't. Let's re-check this for each year. However, the pattern remains the same: Below age 45 age-bands remain mainly flat (non-seasonal age groups) while above 45 age-bands start to form waves (seasonal age groups). This is true for virus-waves and heat waves.
+We start by decomposing the total death signal into age groups. Look at the first plot and try to find your age group. Can you see waves in your age group? No?,.. then you probably belong to a younger age group. Yes!, then you belong definitely to an older age group. And this our first observation. Old people cause seasonality in deaths and young people don't. Let's re-check this for each year. However, the pattern remains the same: Below age 45 age-bands remain flat (non-seasonal age groups) while above 45 age-bands start to form waves (seasonal age groups). This is true for virus waves and heat waves. 
  ![ScreenShot](misc/stacked_by_agegroups_deaths_destatis.JPG)
+ Other than this what can we see? Imagine, not knowing that there something "novel" is going on since March 2020. Anything remarkable? Hmm, it looks like there a more heavy spikes during winter waves and other years with mild waves. This also true for heat waves. In some years heat waves occur, in others almost non-existent.
 
 
