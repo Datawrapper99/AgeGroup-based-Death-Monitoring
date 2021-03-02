@@ -1,14 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import numpy as np
-# import matplotlib as plt2
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-# import xlrd
-
 from scipy.special import betainc
-# from scipy.stats import pearsonr
 
+# various helper functions
 def get_row_from_sheet(
                         sheet_object,
                         set_row, 
