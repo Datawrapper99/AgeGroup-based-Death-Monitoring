@@ -1,4 +1,7 @@
 # AgeGroup-based-Death-Monitoring
 
-## Can we predict German deaths ?? Let's find out.
-Hi all, do NPIs aka Lockdowns, Masks or even Vaccination make sense? To answer these questions, let us become
+## Can we predict German deaths?? Let's find out.
+Hi all,
+
+by referring to NPIs (Lockdowns, Masks, Vaccinations, etc.), which have been imposed on global society
+
