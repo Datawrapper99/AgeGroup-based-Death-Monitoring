@@ -5,7 +5,12 @@ from scipy.special import betainc
 
 # various helper functions
 def corrcoef(matrix):
-  ''' r: Pearson Correlation Coefficients and p: PValues , both returned as 2D Matrices '''
+    ''' 
+    r: Pearson Correlation Coefficients
+    p: PValues
+    r,p returned as 2D Matrices
+    dependencies: numpy, scipy.special (betainc)
+    '''
     r = np.corrcoef(matrix)
     rf = r[np.triu_indices(r.shape[0], 1)]
     df = matrix.shape[1] - 2
@@ -24,7 +29,10 @@ def get_row_from_sheet(
                         print_opt,
                         step_size, 
                         ):
-    ''' get_col_from_sheet '''
+    ''' 
+    get a row from excel sheet
+    dependencies: xlrd
+    '''
     list_row = []
     num_cols = sheet_object.ncols   # Number of columns
     # print("\nCols: Outputs") 
@@ -42,7 +50,10 @@ def get_col_from_sheet(
                         print_opt,
                         step_size, 
                         ):
-    ''' get_col_from_sheet '''
+    ''' 
+    get a col from excel sheet
+    dependencies: xlrd
+    '''
     list_col = []
     num_rows = sheet_object.nrows   # Number of columns
     # print("\nCols: Outputs") 
@@ -52,10 +63,9 @@ def get_col_from_sheet(
             print(sheet_object.cell_type(idx_1-1, set_col-1)) # type: 1 = text, type: 0 = empty, row, col
             print(sheet_object.cell_value(idx_1-1, set_col-1)) # row, col
     return list_col
+   
 
-
-
-
+ 
 
    
 
