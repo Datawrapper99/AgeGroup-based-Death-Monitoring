@@ -43,6 +43,7 @@ def get_col_from_sheet(
     return list_col
 
 def corrcoef(matrix):
+  ''' r: Pearson Correlation Coefficients and p: PValues , both returned as 2D Matrices '''
     r = np.corrcoef(matrix)
     rf = r[np.triu_indices(r.shape[0], 1)]
     df = matrix.shape[1] - 2
