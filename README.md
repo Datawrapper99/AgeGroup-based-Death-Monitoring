@@ -13,11 +13,10 @@ We start by decomposing the total death signal into age groups. Look at the firs
  Other than this what can we see? Anything remarkable or even "novel" for e.g. 2020? Hmm, it looks like there are sometimes waves with heavy spikes during winter and in other seasons only mild waves. These changes in amplitudes and frequency are also true for heat waves. In some years heat waves occur, in others almost non-existent. Moreover, we see that that some virus waves start earlier like 20/21 and other take off late like in 17/18. In signal analysis this is called a phase-shift. Looking at number of waves during each season, there seems to be only one spike for the winter seasons. To sum things up a bit, there seems to be no simple and clear pattern to predict, whether a wave will be heavy or mild. We only know so far, waves will occur at different times. Therefore to expect Excess Deaths during each winter season is normal (It's just a phase-shift) and waves are only related to older age groups. 
  
  ### The case of Heat Waves
- Let's check the reason for heat waves real quick. Ok, as the name "heat" implies, these waves will obviously occur during hot temperatures. If this is true, there should be maximum values for temperature measurements during these periods. 
+ Let's check the reason for heat waves real quick. Ok, as the name "heat" implies, these waves will obviously occur during hot temperatures. If this is true, there should be maximum values for temperature measurements during these periods. Looking at our plot again, we see summer spikes for years 2018,2019 and 2020. Looking at Wikipedia confirms that were heat waves in Germany at this time e.g. 2019: On 26 June exceeding 35 °C (95 °F), on 25 July, a temperature of 42.6 °C (108.7 °F) [2018](https://en.wikipedia.org/wiki/2018_European_heat_wave#Germany), [2019 ](https://en.wikipedia.org/wiki/2019_European_heat_wave#Germany).
  
- [Wikipedia:2019 European heat wave](https://en.wikipedia.org/wiki/2019_European_heat_wave#Germany)
  
- On 25 July, a temperature of 42.6 °C (108.7 °F)
  
- 32 °C (90 °F) on 26 June as well as large parts of the country exceeding 35 °C (95 °F)
 
+ 
+ 
