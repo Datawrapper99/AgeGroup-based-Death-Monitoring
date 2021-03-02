@@ -9,6 +9,6 @@ this analysis delves into German deaths based on data by [destatis](https://www.
 
 ### Let's start with plotting annual deaths decomposed into Age Groups
 We start by decomposing the total death signal into age groups. Look at the ![plot: stacked_by_agegroups_deaths_destatis](https://github.com/[Datawrapper99]/[AgeGroup-based-Death-Monitoring]/blob/[main]//misc/stacked_by_agegroups_deaths_destatis.JPG?raw=true)
- and try to find your age group. Can you see waves in your age group? No?,.. then you probably at a younger age. Yes!, then you belong definitly to an older age group. And this our first observation. Old people cause seasonality in deaths and young people don't. 
+ and try to find your age group. Can you see waves in your age group? No?,.. then you probably belong to a young age group. Yes!, then you belong definitly to an older age group. And this our first observation. Old people cause seasonality in deaths and young people don't. Let's re-check this for each year. However, the pattern remains the same: Below age 45 age-bands remain mainly flat (non-seasonal age groups) while above 45 age-bands start to form waves (seasonal age groups).
 
 
